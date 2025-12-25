@@ -1,0 +1,177 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Breaking: New Technology Revolutionizes Industry",
+      "body": "In a groundbreaking development, researchers have unveiled a new technology that promises to revolutionize the industry. This innovation combines artificial intelligence with traditional methods to create unprecedented efficiency. Experts believe this could change the landscape of how we work and interact with technology in our daily lives. The implications are far-reaching and could impact multiple sectors.nnnn",
+      "author_id": 1,
+      "created_at": "2024-12-10T10:00:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "user_id": 2,
+          "text": "This is amazing news! Can't wait to see how this develops.",
+          "created_at": "2024-12-10T11:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Climate Summit Reaches Historic Agreement",
+      "body": "World leaders have gathered for the annual climate summit and reached a historic agreement on reducing carbon emissions. The comprehensive plan includes specific targets for each participating nation and establishes a framework for accountability. Environmental activists are calling this a significant step forward, though some argue that more aggressive action is needed. The agreement will be implemented over the next decade with regular review periods.",
+      "author_id": 2,
+      "created_at": "2024-12-11T09:00:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "user_id": 1,
+          "text": "Finally, some real progress on climate action!",
+          "created_at": "2024-12-11T10:15:00Z"
+        },
+        {
+          "id": 2,
+          "user_id": 4,
+          "text": "This is a great step, but we need to ensure countries follow through.",
+          "created_at": "2024-12-11T11:00:00Z"
+        },
+        {
+          "id": 3,
+          "user_id": 5,
+          "text": "Hopeful but cautious. Let's see the implementation.",
+          "created_at": "2024-12-11T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sports: Championship Game Ends in Thrilling Overtime",
+      "body": "Last night's championship game delivered everything fans could hope for and more. In a nail-biting finish that went into double overtime, the home team secured victory with a last-second play that will be remembered for years to come. The stadium erupted in celebration as thousands of fans witnessed history being made. Both teams displayed exceptional skill and determination throughout the match.",
+      "author_id": 3,
+      "created_at": "2024-12-11T20:00:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "user_id": 2,
+          "text": "What an incredible game! Best championship in years.",
+          "created_at": "2024-12-11T21:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "New Study Reveals Benefits of Regular Exercise",
+      "body": "A comprehensive study conducted over five years has revealed significant benefits of regular exercise beyond physical fitness. Researchers found improvements in mental health, cognitive function, and overall quality of life among participants who maintained consistent exercise routines. The study emphasizes that even moderate activity, such as 30 minutes of walking daily, can lead to substantial health benefits. Health professionals are recommending these findings be incorporated into public health guidelines.",
+      "author_id": 4,
+      "created_at": "2024-12-12T08:00:00Z",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "Tech Giant Announces New Product Launch",
+      "body": "In an eagerly anticipated announcement, a leading technology company has revealed its latest product lineup. The new devices feature cutting-edge technology including advanced processors, improved battery life, and innovative features that set new industry standards. Pre-orders begin next week with general availability expected within the month. Industry analysts predict strong sales based on the impressive specifications and competitive pricing announced today.",
+      "author_id": 5,
+      "created_at": "2024-12-12T14:00:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "user_id": 1,
+          "text": "The specs look impressive! Definitely considering an upgrade.",
+          "created_at": "2024-12-12T15:00:00Z"
+        },
+        {
+          "id": 2,
+          "user_id": 3,
+          "text": "Pricing seems reasonable for what you get. Excited to see reviews!",
+          "created_at": "2024-12-12T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "title": "MongoDB Test Article",
+      "body": "This is saving to MongoDB Atlas!",
+      "author_id": 1,
+      "id": 6
+    },
+    {
+      "title": "ghr4bhbevfbksv",
+      "body": "ergbwvb b fhhrwbgefv bgbr4fe ib34fw",
+      "author_id": 1,
+      "id": 7
+    },
+    {
+      "title": "rgehrthrt",
+      "body": "gjnhgjknrtjnhnrtjkhjtebh",
+      "author_id": 1,
+      "id": 8
+    },
+    {
+      "title": "test 1000",
+      "body": "tngjkrnbgjkerbg in5tgrbg ghvr fvrbjv tgnvfbbgfv. nfjnvjrejgfvc 4rngfjgjr",
+      "author_id": 1,
+      "id": 9
+    },
+    {
+      "title": "tesstt 500000ftyftygvgy",
+      "body": "ugvguvgguvgvgvgugvgvgghvg",
+      "author_id": 2,
+      "id": 10
+    },
+    {
+      "title": "hghbvvjgvvv",
+      "body": "uvbgvgguvgvgvhuvvbuvugvuv",
+      "author_id": 2,
+      "id": 11
+    },
+    {
+      "title": "rgmntw4gn 4th gkrgfkr3b gb",
+      "body": "3rgnjerbwgjlewthjlbjtnht",
+      "author_id": 1,
+      "id": 12
+    },
+    {
+      "title": "ertb rentjbkjnjkbtjrns",
+      "body": "rtwnktnrbk4jlbjlj jlw4t gn4tjklntg b kt4kgn",
+      "author_id": 2,
+      "id": 13
+    },
+    {
+      "title": "frejknfjnkdjnfrefv",
+      "body": "refvnvefvkqv q3rfejnfvbf",
+      "author_id": 2,
+      "id": 14
+    },
+    {
+      "title": "eracfndjfjnrdc",
+      "body": "vdfjfvnvdc jnrejadcnj rfencdj jfjw dcc",
+      "author_id": 2,
+      "id": 15
+    }
+  ]
+}
